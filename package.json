@@ -1,0 +1,19 @@
+{
+  "name": "portafolio-omar",
+  "version": "1.0.0",
+  "description": "portafolio de trabajo omar",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch css/style.scss  css/style.css"
+  },
+  "author": "omar",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.62.0"
+  }
+}
